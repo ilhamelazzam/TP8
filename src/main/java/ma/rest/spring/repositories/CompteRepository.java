@@ -1,6 +1,6 @@
-package ma.ws.jaxrs.repositories;
+package ma.rest.spring.repositories;
 
-import ma.ws.jaxrs.entities.Compte;
+import ma.rest.spring.entities.Compte;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CompteRepository extends JpaRepository<Compte, Long> {}
