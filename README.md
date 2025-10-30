@@ -6,6 +6,5 @@
 <img width="960" height="540" alt="Capture d’écran 2025-10-30 132227" src="https://github.com/user-attachments/assets/934d0c69-edfc-445e-a71c-788e68cdc55a" />
 
 
-
 Uploading Design sans titre (3).mp4…
 
